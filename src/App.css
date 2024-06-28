@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #f2f9f1;
+}
+
+.app {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZAbPyDRdntVnS5AveTey6-f8wqr3gPe3xVw&s);
+}
