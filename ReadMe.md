@@ -1,10 +1,10 @@
-To do Application: folow aong project
+To do Application: follow along project
 
 Learned
-
->  useState single/Multi
->  component module styling
->  Props
->  Objects
+useState 
+single/Multicomponent 
+module styling
+Props
+Objects
 
 Clone and Npm install
